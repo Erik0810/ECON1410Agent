@@ -1,6 +1,6 @@
-# ECON1410 Exam prep ai agent
+# ECON1410 Exam prep AI-agent
 
-This Flask web app uses OpenAI platform and vector stores to create an AI agent trained on the ECON1410 curriculum slides (PDFs). It combines this knowledge base with standard LLM capabilities to provide well-structured, informative responses. The app is optimized for both desktop and mobile use.
+This Flask web app uses OpenAI platform and vector stores to create an AI-agent trained on the ECON1410 curriculum slides (PDFs). It combines this knowledge base with standard LLM capabilities to provide well-structured, informative responses. The app is optimized for both desktop and mobile use.
 
 To use the app for a different course you can simply swap out the PDFs in the ECON1410 directory and tailor the system prompt inside document_store.py.
 
